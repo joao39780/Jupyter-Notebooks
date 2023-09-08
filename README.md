@@ -1,1 +1,1 @@
-# Jupyter Files Pratice
+# Jupyter Files
